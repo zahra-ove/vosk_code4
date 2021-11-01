@@ -1,0 +1,5 @@
+*.wav
+*.webm
+node_modules
+audios
+models/
